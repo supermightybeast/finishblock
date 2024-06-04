@@ -102,7 +102,3 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
-
-
-
-

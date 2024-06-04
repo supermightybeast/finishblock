@@ -1,0 +1,15 @@
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.AssemblyInfoInputs.cache
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.AssemblyInfo.cs
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.csproj.CoreCompileInputs.cache
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.sourcelink.json
+/Users/ivanolegovich/Desktop/GB/itogovaya/bin/Debug/net8.0/itogovaya
+/Users/ivanolegovich/Desktop/GB/itogovaya/bin/Debug/net8.0/itogovaya.deps.json
+/Users/ivanolegovich/Desktop/GB/itogovaya/bin/Debug/net8.0/itogovaya.runtimeconfig.json
+/Users/ivanolegovich/Desktop/GB/itogovaya/bin/Debug/net8.0/itogovaya.dll
+/Users/ivanolegovich/Desktop/GB/itogovaya/bin/Debug/net8.0/itogovaya.pdb
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.dll
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/refint/itogovaya.dll
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.pdb
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/itogovaya.genruntimeconfig.cache
+/Users/ivanolegovich/Desktop/GB/itogovaya/obj/Debug/net8.0/ref/itogovaya.dll
